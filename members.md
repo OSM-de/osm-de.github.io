@@ -15,7 +15,7 @@ These are the members of the GitHub organization.
       <a href="https://twitter.com/kmpoppe" target="_blank"><img src="https://img.shields.io/badge/Twitter-@kmpoppe-1DA1F2.svg?style=for-the-badge&logo=twitter" /></a>
       <a href="https://t.me/kmpoppe" target="_blank"><img src="https://img.shields.io/static/v1?label=TELEGRAM&message=%40kmpoppe&color=0088ff&logo=telegram&style=for-the-badge" /></a>
       <a href="https://github/kmpoppe" target="_blank"><img src="https://img.shields.io/static/v1?label=GITHUB&message=kmpoppe&color=0088ff&logo=github&style=for-the-badge" /></a>
-´    </td>
+    </td>
   </tr>
   <tr>
     <td>
