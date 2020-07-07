@@ -1,8 +1,8 @@
 title: OSM_de's GitHub Page
 author: GitHub Organization OSM-de
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://osm-de.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" 
+url: "https://osm-de.github.io"
 
 telegram_username: OSM_de
 github_username:   OSM-de
