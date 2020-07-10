@@ -14,7 +14,7 @@ These are the members of the GitHub organization.
     <td>
       <a href="https://twitter.com/kmpoppe" target="_blank"><img src="https://img.shields.io/badge/Twitter-@kmpoppe-1DA1F2.svg?style=for-the-badge&logo=twitter" /></a>
       <a href="https://t.me/kmpoppe" target="_blank"><img src="https://img.shields.io/static/v1?label=TELEGRAM&message=%40kmpoppe&color=0088ff&logo=telegram&style=for-the-badge" /></a>
-      <a href="https://github/kmpoppe" target="_blank"><img src="https://img.shields.io/static/v1?label=GITHUB&message=kmpoppe&color=0088ff&logo=github&style=for-the-badge" /></a>
+      <a href="https://github.com/kmpoppe" target="_blank"><img src="https://img.shields.io/static/v1?label=GITHUB&message=kmpoppe&color=0088ff&logo=github&style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ Owner of the GitHub organization. Doing software shenanigans for 25-ish years, g
     <td>
       <a href="https://www.xing.com/profile/Soeren_Reinecke2" target="_blank"><img src="https://img.shields.io/static/v1?label=XING&message=Soeren_Reinecke2&color=0088ff&logo=xing&style=for-the-badge" /></a>
       <a href="https://t.me/valornaram" target="_blank"><img src="https://img.shields.io/static/v1?label=TELEGRAM&message=valornaram&color=0088ff&logo=telegram&style=for-the-badge" /></a>
-      <a href="https://github/valornaram" target="_blank"><img src="https://img.shields.io/static/v1?label=GITHUB&message=valornaram&color=0088ff&logo=github&style=for-the-badge" /></a>
+      <a href="https://github.com/valornaram" target="_blank"><img src="https://img.shields.io/static/v1?label=GITHUB&message=valornaram&color=0088ff&logo=github&style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
