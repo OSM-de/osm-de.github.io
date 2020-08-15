@@ -6,7 +6,7 @@ order: 2
 ---
 These are the members of the GitHub organization.
 
-# kmpoppe #
+# Kai Michael Poppe alias kmpoppe #
 
 <table>
   <tr>
