@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 order: 1
 ---
-[The German OSM-related Telegram group](https://t.me/OSM_de) opened a [GitHub organization](https://github.com/OSM-de) to centrally source OpenStreetMap-related developments. Please enjoy browsing the projects.
+[The German-speaking OSM-related Telegram group (OSM D-A-CH)](https://t.me/OSM_de) opened a [GitHub organization](https://github.com/OSM-de) to centrally source OpenStreetMap-related developments. Please enjoy browsing the projects.
 
 # **OSM_de's projects**
 
