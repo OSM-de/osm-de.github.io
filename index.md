@@ -14,7 +14,7 @@ Mentor API is a project for storing contact (e-mail, social media etc.) and appr
 ### [Web to OpenStreetMap opening_hours](https://github.com/OSM-de/WebToOSMOH){:target="_blank"}
 
 This tool allows you to paste any website content giving opening hours of a place and returns a value for the opening_hours-tag.<br/>
-It can be used [directly](https://osm-de.github.io/WebToOSMOH){:target="_blank"} without forking the repository beforehand.<br/>
+It can be used [directly](https://www.webmapping.cyou/WebToOSMOH){:target="_blank"} without forking the repository beforehand.<br/>
 ![Usage Counter](https://img.shields.io/badge/dynamic/json?color=%233866af&label=no.%20of%20conversions&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fosm-de-telegram%2Fwebtoosmoh-usage&style=for-the-badge)
 
 # **Member's projects**
